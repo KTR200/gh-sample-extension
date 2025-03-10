@@ -1,7 +1,7 @@
 {
   "id": "ktr200/gh-sample-extension",
   "name": "Default Ghost",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "これが見えたらバグです",
   "author": "KTR200",
   "shortcut": "Alt+1",
