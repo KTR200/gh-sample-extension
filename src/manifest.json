@@ -1,6 +1,7 @@
 {
   "id": "ktr200/gh-sample-extension",
   "name": "Default Ghost",
+  "category": "lifestyle",
   "version": "1.1.0",
   "description": "これが見えたらバグです",
   "author": "KTR200",
